@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0.094)">
+    <g id="Color_Icon" data-name="Color Icon" transform="translate(-0.094)">
+      <g id="_05.Whatsapp" data-name="05.Whatsapp">
+        <rect id="Rectangle_54" data-name="Rectangle 54" width="45" height="45" rx="22.5" fill="#4caf50"/>
+        <path id="Icon" d="M47.812,36a11.8,11.8,0,0,0-9.556,18.72L36.781,59.1l4.541-1.452A11.8,11.8,0,1,0,47.812,36Zm6.272,16.69-1.257,1.257C51.506,55.268,48,53.814,44.894,50.7s-4.5-6.609-3.242-7.916l1.257-1.257a1.319,1.319,0,0,1,1.785,0l1.853,1.847a1.23,1.23,0,0,1-.463,2.048,1.2,1.2,0,0,0-.794,1.457,5.708,5.708,0,0,0,3.44,3.437,1.26,1.26,0,0,0,1.443-.8,1.233,1.233,0,0,1,2.065-.463l1.85,1.853a1.319,1.319,0,0,1,0,1.785Z" transform="translate(-25.527 -25.379)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,84 @@
+.btn {
+  width: auto;
+  min-height: 50px !important;
+  border-radius: 25px !important;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+
+  &.btn-sm {
+    min-height: 36px !important;
+  }
+
+  &.btn-primary {
+    background-color: var(--primary-color);
+    border: 0px !important;
+  }
+
+  &.btn-light {
+    outline: 1px solid rgba($color: #FFFFFF, $alpha: 0.10) !important;
+    background-color: rgba($color: #14A1D5, $alpha: 0.20);
+    border: 0px !important;
+    margin-inline-start: 10px;
+  }
+
+  &.btn-success {
+    background-color: var(--secondary-color);
+    border: 0px !important;
+  }
+
+  &.btn-outline-primary {
+    border: 1px solid #14A1D5;
+    background-color: #fff;
+
+    span {
+      color: #14A1D5 !important;
+    }
+  }
+
+  img {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+
+    &.standard-img {
+      margin-inline-end: 8px;
+    }
+
+    &.hover-img {
+      position: absolute;
+      left: calc(50% - 12px);
+      top: -100%;
+      transition: all .3s linear;
+    }
+  }
+
+  span {
+    color: var(--light);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+  }
+
+  &:hover {
+
+    span,
+    .standard-img {
+      opacity: 0;
+      visibility: hidden;
+    }
+
+    .hover-img {
+      top: calc(50% - 12px) !important;
+    }
+  }
+}
+
+.buttons-contain {
+  display: flex;
+  align-items: center;
+  align-content: center;
+}

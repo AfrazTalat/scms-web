@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80.076" height="80.076" viewBox="0 0 80.076 80.076">
+  <g id="Group_1319" data-name="Group 1319" transform="translate(-654 -1542)">
+    <g id="play-circle_twotone" data-name="play-circle/twotone" transform="translate(654 1542)">
+      <g id="vuesax_twotone_play-circle" data-name="vuesax/twotone/play-circle">
+        <g id="play-circle">
+          <path id="Vector" d="M66.73,33.365A33.365,33.365,0,1,1,33.365,0,33.365,33.365,0,0,1,66.73,33.365Z" transform="translate(6.573 6.673)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Vector-2" data-name="Vector" d="M0,13.36V7.788C0,.848,4.9-1.988,10.91,1.482l4.838,2.8,4.838,2.8c6.006,3.47,6.006,9.142,0,12.612l-4.838,2.8L10.91,25.3C4.9,28.774,0,25.938,0,19Z" transform="translate(29.161 27.446)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.4"/>
+          <path id="Vector-3" data-name="Vector" d="M0,0H80.076V80.076H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_1314" data-name="Group 1314" transform="translate(-1172 -2907)">
+    <g id="document-download_twotone" data-name="document-download/twotone" transform="translate(1172 2907)">
+      <g id="vuesax_twotone_document-download" data-name="vuesax/twotone/document-download">
+        <g id="document-download">
+          <g id="Group_630" data-name="Group 630" opacity="0.4">
+            <path id="Vector" d="M0,0V6L2,4" transform="translate(9 11)" fill="none" stroke="#14a1d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+            <path id="Vector-2" data-name="Vector" d="M2,2,0,0" transform="translate(7 15)" fill="none" stroke="#14a1d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+          <path id="Vector-3" data-name="Vector" d="M20,8v5c0,5-2,7-7,7H7c-5,0-7-2-7-7V7C0,2,2,0,7,0h5" transform="translate(2 2)" fill="none" stroke="#14a1d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <path id="Vector-4" data-name="Vector" d="M8,8H4C1,8,0,7,0,4V0Z" transform="translate(14 2)" fill="none" stroke="#14a1d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <path id="Vector-5" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

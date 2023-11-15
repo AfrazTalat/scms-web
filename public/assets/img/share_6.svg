@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="45" viewBox="0 0 44 45">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0082ff"/>
+      <stop offset="1" stop-color="#0078db"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2" transform="translate(-0.332)">
+    <g id="Color_Icon" data-name="Color Icon" transform="translate(0.332)">
+      <g id="_38.Messenger" data-name="38.Messenger">
+        <rect id="Background" width="44" height="45" rx="22" fill="url(#linear-gradient)"/>
+        <path id="Icon" d="M47.8,36C41.284,36,36,40.9,36,46.94a10.636,10.636,0,0,0,4.4,8.532l.047,3.856a.274.274,0,0,0,.41.233l3.685-2.092a12.6,12.6,0,0,0,3.263.419c6.517,0,11.8-4.9,11.8-10.94S54.319,36,47.8,36Zm.885,14.456-2.523-2.626a.478.478,0,0,0-.569-.089l-4.425,2.384a.171.171,0,0,1-.2-.266l5.243-5.526a.378.378,0,0,1,.552,0l2.517,2.676a.475.475,0,0,0,.572.091l4.352-2.36a.168.168,0,0,1,.2.266l-5.157,5.464a.378.378,0,0,1-.561,0Z" transform="translate(-25.846 -25.379)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

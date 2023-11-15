@@ -1,0 +1,86 @@
+.custom-tabs {
+  width: 100%;
+
+  .nav.nav-tabs {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    border: 0px !important;
+    margin-bottom: 20px;
+
+    .nav-item {
+      margin: 0px;
+      margin-bottom: 1rem;
+    }
+
+    .nav-link {
+      width: 250px;
+      min-width: 250px !important;
+      height: 50px;
+      margin-inline-end: 17px;
+      border-radius: 25px !important;
+      display: flex;
+      align-items: center;
+      align-content: center;
+      justify-content: center;
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--secondary-color);
+      border: 1px solid rgba($color: #058702, $alpha: 0.10);
+      background-color: rgba($color: #058702, $alpha: 0.06) !important;
+      position: relative;
+      z-index: 4;
+      overflow: hidden;
+      cursor: pointer;
+      padding: 0px;
+
+      &::after,
+      &::before {
+        content: '';
+        position: absolute;
+        width: 0%;
+        height: 100%;
+        background-color: var(--secondary-color);
+        top: 0;
+        z-index: -1;
+        transition: all .3s linear;
+      }
+
+      &::after {
+        left: 0;
+      }
+
+      &::before {
+        right: 0px;
+      }
+
+      &:hover,
+      &.active {
+        border: 1px solid rgba($color: #058702, $alpha: 1.0);
+        color: #fff;
+
+        &::after,
+        &::before {
+          width: 55%;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 999px) {
+  .custom-tabs .nav.nav-tabs {
+    justify-content: flex-start !important;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+
+    &::-webkit-scrollbar-thumb,
+    &::-webkit-scrollbar,
+    &::-webkit-scrollbar-track {
+      background: transparent !important;
+      width: 0px !important;
+    }
+  }
+}

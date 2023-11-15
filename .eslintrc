@@ -1,0 +1,8 @@
+{
+  "extends": ["@nuxtjs/eslint-config-typescript"],
+  "rules": {
+    "comma-dangle": "off",
+    "eol-last": "off",
+    "vue/singleline-html-element-content-newline": "off"
+  }
+}

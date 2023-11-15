@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_80" data-name="Group 80" transform="translate(-1236.963 -5452)">
+    <g id="people_twotone" data-name="people/twotone" transform="translate(1236.963 5452)">
+      <g id="vuesax_twotone_people" data-name="vuesax/twotone/people">
+        <g id="people">
+          <path id="Vector" d="M5.552,10.729a1.259,1.259,0,0,0-.4,0,5.375,5.375,0,1,1,.4,0Z" transform="translate(31.968 4.159)" fill="none" stroke="#004e77" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.4"/>
+          <path id="Vector-2" data-name="Vector" d="M.062,10.272a11.716,11.716,0,0,0,8.192-1.5c2.932-1.955,2.932-5.157,0-7.111A11.79,11.79,0,0,0,0,.187" transform="translate(35.315 19.801)" fill="none" stroke="#004e77" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.4"/>
+          <path id="Vector-3" data-name="Vector" d="M5.177,10.729a1.259,1.259,0,0,1,.4,0,5.375,5.375,0,1,0-.4,0Z" transform="translate(7.231 4.159)" fill="none" stroke="#004e77" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.4"/>
+          <path id="Vector-4" data-name="Vector" d="M10.391,10.272A11.716,11.716,0,0,1,2.2,8.775C-.733,6.82-.733,3.618,2.2,1.664A11.789,11.789,0,0,1,10.454.187" transform="translate(4.159 19.801)" fill="none" stroke="#004e77" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.4"/>
+          <g id="Group" transform="translate(16.75 19.788)">
+            <path id="Vector-5" data-name="Vector" d="M5.552,10.729a1.259,1.259,0,0,0-.4,0,5.375,5.375,0,1,1,.4,0Z" transform="translate(2.698)" fill="none" stroke="#004e77" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            <path id="Vector-6" data-name="Vector" d="M2.2,1.653C-.733,3.608-.733,6.81,2.2,8.764a11.8,11.8,0,0,0,12.1,0c2.932-1.955,2.932-5.157,0-7.111A11.9,11.9,0,0,0,2.2,1.653Z" transform="translate(0 15.626)" fill="none" stroke="#004e77" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+          <path id="Vector-7" data-name="Vector" d="M0,0H50V50H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

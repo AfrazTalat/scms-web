@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_74" data-name="Group 74" transform="translate(-1004 -5427.902)">
+    <g id="eye_shield-tick_twotone" data-name="eye/shield-tick/twotone" transform="translate(1004 5427.902)">
+      <g id="vuesax_twotone_shield-tick" data-name="vuesax/twotone/shield-tick">
+        <g id="shield-tick">
+          <path id="Vector" d="M14.741.484,4.352,4.4A7.227,7.227,0,0,0,0,10.669V26.143a10.126,10.126,0,0,0,3.6,7.164l8.953,6.685a9.474,9.474,0,0,0,10.7,0l8.953-6.685a10.126,10.126,0,0,0,3.6-7.164V10.669a7.231,7.231,0,0,0-4.352-6.29L21.071.484A10.584,10.584,0,0,0,14.741.484Z" transform="translate(7.115 4.168)" fill="none" stroke="#058702" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Vector-2" data-name="Vector" d="M0,5.613,3.359,8.972,12.331,0" transform="translate(18.845 19.119)" fill="none" stroke="#058702" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.4"/>
+          <path id="Vector-3" data-name="Vector" d="M0,0H50V50H0Z" transform="translate(50 50) rotate(180)" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

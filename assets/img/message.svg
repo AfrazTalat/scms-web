@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_18" data-name="Group 18" transform="translate(-709 -1196)">
+    <g id="messages-2_twotone" data-name="messages-2/twotone" transform="translate(709 1196)">
+      <g id="vuesax_twotone_messages-2" data-name="vuesax/twotone/messages-2">
+        <g id="messages-2">
+          <path id="Vector" d="M17.663,18.538l.487,3.95a1.244,1.244,0,0,1-1.875,1.225L11.038,20.6a12.477,12.477,0,0,1-1.687-.112,6.076,6.076,0,0,0,1.475-3.95A6.658,6.658,0,0,0,3.95,10.113,7.1,7.1,0,0,0,.05,11.25,7.923,7.923,0,0,1,0,10.3C0,4.612,4.938,0,11.038,0S22.075,4.612,22.075,10.3A10.068,10.068,0,0,1,17.663,18.538Z" transform="translate(5.425 2.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+          <path id="Vector-2" data-name="Vector" d="M13.75,6.425a6.076,6.076,0,0,1-1.475,3.95,6.98,6.98,0,0,1-5.4,2.462L3.612,14.775a.782.782,0,0,1-1.175-.762L2.75,11.55A6.235,6.235,0,0,1,0,6.425,6.279,6.279,0,0,1,2.975,1.137,7.1,7.1,0,0,1,6.875,0,6.658,6.658,0,0,1,13.75,6.425Z" transform="translate(2.5 12.613)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Vector-3" data-name="Vector" d="M0,0H30V30H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

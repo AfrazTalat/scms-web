@@ -1,0 +1,45 @@
+{
+  "name": "nuxt-app",
+  "private": false,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@bootstrap-vue-next/nuxt": "^0.1.0",
+    "@invictus.codes/nuxt-vuetify": "^0.2.20",
+    "@nuxt/devtools": "latest",
+    "@nuxt/eslint-config": "^0.1.1",
+    "@nuxt/image": "^1.0.0-rc.1",
+    "@nuxtjs/eslint-config": "^12.0.0",
+    "@nuxtjs/eslint-config-typescript": "^12.0.0",
+    "@nuxtjs/eslint-module": "^4.1.0",
+    "@nuxtjs/i18n": "^8.0.0-beta.13",
+    "@sidebase/nuxt-session": "^0.2.7",
+    "@types/node": "^18",
+    "bootstrap": "^5.3.0",
+    "bootstrap-vue-next": "^0.9.9",
+    "dayjs-nuxt": "^1.1.2",
+    "eslint": "^8.43.0",
+    "nuxt": "^3.6.2",
+    "nuxt-icon": "^0.4.1",
+    "nuxt-lodash": "^2.4.1",
+    "nuxt-security": "^0.13.1",
+    "sass": "^1.63.4",
+    "sass-loader": "^13.3.2"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.11",
+    "dotenv": "^16.3.1",
+    "get-youtube-id": "^1.0.1",
+    "ohash": "^1.1.2",
+    "pinia": "^2.1.4",
+    "uuid": "^9.0.0",
+    "vue": "^3.3.4",
+    "vue-social-sharing": "^4.0.0-alpha4"
+  }
+}
