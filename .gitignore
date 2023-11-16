@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nuxt dev/build outputs
 .output
 .nuxt
@@ -22,3 +23,27 @@ logs
 .env
 .env.*
 !.env.example
+=======
+.vagrant/
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+/public/css/
+/public/assets/i18n/
+/public/uploads/
+/public/js/
+/public/fonts/
+/packages
+/storage/oauth-private.key
+/storage/oauth-public.key
+/storage/*
+.idea/
+.DS_Store
+.phpunit.result.cache
+docker/mysql/
+.phpstorm.meta.php
+_ide_helper_models.php
+_ide_helper.php
+>>>>>>> scmc-api/main

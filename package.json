@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "nuxt-app",
   "private": false,
   "scripts": {
@@ -41,5 +42,9 @@
     "uuid": "^9.0.0",
     "vue": "^3.3.4",
     "vue-social-sharing": "^4.0.0-alpha4"
+=======
+  "dependencies": {
+    "vue-social-sharing": "^3.0.9"
+>>>>>>> scmc-api/main
   }
 }

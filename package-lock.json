@@ -1,0 +1,40 @@
+{
+  "name": "api",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "dependencies": {
+        "vue-social-sharing": "^3.0.9"
+      }
+    },
+    "node_modules/vue": {
+      "version": "2.6.14",
+      "resolved": "https://registry.npmjs.org/vue/-/vue-2.6.14.tgz",
+      "integrity": "sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ==",
+      "peer": true
+    },
+    "node_modules/vue-social-sharing": {
+      "version": "3.0.9",
+      "resolved": "https://registry.npmjs.org/vue-social-sharing/-/vue-social-sharing-3.0.9.tgz",
+      "integrity": "sha512-Yg4oz5cSkr7ieMAgumwoRLnFhAaoUGCsN8lZE9yUkuQzbKid8yBOn4mLjfx/DA/E8nxYjunAfIUFs7eKIkBjPA==",
+      "peerDependencies": {
+        "vue": "^2.6.10"
+      }
+    }
+  },
+  "dependencies": {
+    "vue": {
+      "version": "2.6.14",
+      "resolved": "https://registry.npmjs.org/vue/-/vue-2.6.14.tgz",
+      "integrity": "sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ==",
+      "peer": true
+    },
+    "vue-social-sharing": {
+      "version": "3.0.9",
+      "resolved": "https://registry.npmjs.org/vue-social-sharing/-/vue-social-sharing-3.0.9.tgz",
+      "integrity": "sha512-Yg4oz5cSkr7ieMAgumwoRLnFhAaoUGCsN8lZE9yUkuQzbKid8yBOn4mLjfx/DA/E8nxYjunAfIUFs7eKIkBjPA==",
+      "requires": {}
+    }
+  }
+}
